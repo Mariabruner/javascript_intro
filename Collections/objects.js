@@ -66,4 +66,14 @@ console.log(builderObj.greet("Hello"))
 //Stacks are LIFO (Last in, First out)
 //Queus are FIFO (First in, First out)
 
+//A Look ahead at "Classes", special type of way to build an obj
+// //Object oreiented programming (OOP)
+// class Dog{
+//     constructor(breed, age){
+//         this.breed = breed
+//         this.age = age
+//     }
+// }
+// let fido = new Dog("lab", 25)
+// console.log(fido.breed)
 
